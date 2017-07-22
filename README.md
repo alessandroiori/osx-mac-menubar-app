@@ -1,6 +1,5 @@
-#OS X Mac Menubar App
-Demo application for Mac's menu bar.
-This application shows the hidden files in the Finder.
+## OS X Mac Menubar App
+This demo application shows the hidden files in the Finder.
 
 ![icon OFF](https://raw.githubusercontent.com/alessandroiori/MacMenubarApp/master/img/readmeImg/01.png)
 
